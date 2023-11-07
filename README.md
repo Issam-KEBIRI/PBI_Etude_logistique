@@ -13,25 +13,14 @@
 
 ## About The Project
 
-Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de deux fichiers Excel :
+L'étude logistique réalisée dans Power BI (PBI) est une analyse approfondie des processus de gestion de la chaîne d'approvisionnement, de la distribution et de la gestion des ressources logistiques au sein d'une organisation. Cette étude vise à visualiser et à interpréter les données relatives aux opérations logistiques. À noter que les données ont été remplacées par de fausses données.
 
-1. [commandes.xlsx](Data/commandes.xlsx) contient : Segment (clients), Pays, Produit, Rabais, Quantité, Prix de vente, Montant, Date et la relation entre les deux tables ID RC
-2. [responsable_comptes.xlsx](Data/responsable%20comptes.xlsx) contient : Responsable de compte, adresse, email, téléphone et la relation entre les deux tables ID RC
-
-#### Relations visualisées sur le Dashboard :
-- Vente par Date
-- Quantité vendue par Clients
-- Quantité vendue par Trimestre
-- Quantité vendue par Produit
-- Vente par Responsable de compte
-- Totale quantité vendue
-- Totale des ventes en €
-
-
-#### Filtres sur le Dashbord :
-- sur Clients
-- Sur Pays
-- Sur Années (2020 ou 2021)
+#### Fichiers de données :
+- [_fFreight.csv] _fFreight.csv (fichier traité)
+- [DimensionTables.xlsx] DimensionTables.xlsx
+- [fCosts.xlsx] fCosts.xlsx
+- [fFreight.csv] fFreight.csv
+- [fFreight.xlsx] fFreight.xlsx
 
 
 
@@ -40,14 +29,11 @@ Analyse des ventes de la société BEA pour l'année 2020 & 2021 sur la base de 
 * PowerBI
 
 
-
-## Usage
-
-Run [Analyse_ventes_BEA.pbix](Analyse_ventes_BEA.pbix)
-
 ## Result
-[RESULT](Analyse_ventes_BEA.pdf)
-<img src="Analyse_ventes_BEA.jpg" >
+[RESULT](Etude_logistique.pdf)
+<img src="PBIX_Logistics_Page1.png" >
+<img src="PBIX_Logistics_Page2.png" >
+<img src="PBIX_Logistics_Page3.png" >
 
 ## License
 
