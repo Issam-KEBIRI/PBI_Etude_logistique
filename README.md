@@ -20,7 +20,7 @@ L'étude logistique réalisée dans Power BI (PBI) est une analyse approfondie d
 - [./Data/DimensionTables.xlsx] DimensionTables.xlsx
 - [./Data/fCosts.xlsx] fCosts.xlsx
 - [./Data/fFreight.csv] fFreight.csv
-- [./Data/fFreight.xlsx] fFreight.xlsx
+- [.\Data\_fFreight.csv] fFreight.xlsx
 
 
 
