@@ -1,8 +1,8 @@
 # Analyse et création de Dashboard des ventes de la société BEA
 
-![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/Analyse_ventes_BEA?color=g&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Analyse_ventes_BEA?color=red&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/Analyse_ventes_BEA?color=yellow&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/PBI_Etude_logistique?color=g&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/PBI_Etude_logistique?color=red&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/PBI_Etude_logistique?color=yellow&style=for-the-badge)
 
 ![GitHub dev_language](https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
 ![GitHub dev_language](https://img.shields.io/badge/Dax-blue?style=flat&logo=redwoodjs&logoColor=white)
