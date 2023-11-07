@@ -48,4 +48,4 @@ L'étude logistique réalisée dans Power BI (PBI) est une analyse approfondie d
 
 🌐 My Portfolio: <https://kebiri-isam-dine.github.io/>
 
-🔗 Project Link: [https://github.com/Kebiri-isam-dine/Analyse_ventes_BEA](https://github.com/Kebiri-isam-dine/Analyse_ventes_BEA)
+🔗 Project Link: [https://github.com/kebiri-isam-dine/PBI_Etude_logistique](https://github.com/kebiri-isam-dine/PBI_Etude_logistique)
