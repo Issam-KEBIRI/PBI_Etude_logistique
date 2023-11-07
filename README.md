@@ -16,11 +16,11 @@
 L'étude logistique réalisée dans Power BI (PBI) est une analyse approfondie des processus de gestion de la chaîne d'approvisionnement, de la distribution et de la gestion des ressources logistiques au sein d'une organisation. Cette étude vise à visualiser et à interpréter les données relatives aux opérations logistiques. À noter que les données ont été remplacées par de fausses données.
 
 #### Fichiers de données :
-- [_fFreight.csv] (_fFreight.csv)
-- [./Data/DimensionTables.xlsx] DimensionTables.xlsx
-- [./Data/fCosts.xlsx] fCosts.xlsx
-- [./Data/fFreight.csv] fFreight.csv
-- [./Data/_fFreight.csv] fFreight.xlsx
+- [_fFreight.csv](/Data/_fFreight.csv)
+- [DimensionTables.xlsx](/Data/DimensionTables.xlsx)
+- [fCosts.xlsx](/Data/fCosts.xlsx)
+- [fFreight.csv](/Data/fFreight.csv)
+- [fFreight.xlsx](/Data/fFreight.xlsx)
 
 
 
